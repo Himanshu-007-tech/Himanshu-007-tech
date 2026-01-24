@@ -11,9 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Himanshu-007-tech&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Himanshu-007-tech&theme=default_repocard&hide_border=false)<br/>
 
-- Productive Working
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 <br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-007-tech&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 
